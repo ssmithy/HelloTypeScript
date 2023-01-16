@@ -1,4 +1,4 @@
 var message = 'Hello, World!';
 console.log(message);
 
-//testing
+//Added some test
